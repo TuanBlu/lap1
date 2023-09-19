@@ -1,0 +1,11 @@
+﻿body {
+}
+
+.menu-nav a{
+    margin-inline:4px;
+    color:crimson;
+    text-decoration:none;
+}
+.menu-nav a:hover{
+    color:black;
+}
